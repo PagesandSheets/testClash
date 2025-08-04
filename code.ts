@@ -1,6 +1,6 @@
 const onOpen = () => {
   SpreadsheetApp.getUi()
-    .createMenu("NEW MENU!!")
+    .createMenu("Expirimental Branch")
     .addItem("Show Alert", "showAlert")
     .addToUi();
 };
